@@ -1,0 +1,49 @@
+header {
+    justify-content: space-between;
+    flex-wrap: wrap; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    order: 1;
+    background-color: white;
+    margin: 0;
+
+    
+}
+
+img {
+    
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    width: 155px;
+    
+}
+h1 {
+    color: #FFFFFF
+    font-family: "Rubik", sans-serif;
+    font-size: 30px;
+    display: flex;
+    flex direction: center;
+    justify-content: center;
+    text-align: center;
+   
+
+
+
+
+}
+
+.menu_link {
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+
+}
+ body {
+     background-color: #3CDBC0;
+     margin: 0;
+
+ }
